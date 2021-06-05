@@ -1,10 +1,8 @@
 <template>
-    <div>registration</div>
+  <div>registration</div>
 </template>
 <script>
 export default {
-  name: 'Registration',
-  mounted:function(){
-  }
-}
+  name: "Registration",
+};
 </script>

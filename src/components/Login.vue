@@ -1,12 +1,9 @@
 <template>
-    <div>
-    hey
-    </div>
+  <div>hey</div>
 </template>
 <script>
 export default {
-  name: 'Login',
-  components:{
-  }
-}
+  name: "Login",
+  components: {},
+};
 </script>
